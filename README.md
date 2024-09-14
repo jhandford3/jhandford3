@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**jhandford3/jhandford3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! It's nice to meet you 👋
+I am a problem solver, business operations manager at Posit PBC, and founder of Handford Hacks LLC.  
+I love automating processes, working with financial data, and making beautiful charts. I also love the statistical programming language R, am a huge Gossip Girl fan, and traveling with my family is always an adventure.
 
-Here are some ideas to get you started:
+I live in Charlotte, NC, with my husband, and two kids.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can find me elsewhere at:
+
+🔗 www.handfordhacks.com 
+
+🎥 https://youtube.com/@handfordhacks
+
+💼 https://www.linkedin.com/in/janeka-handford
+
+
+
